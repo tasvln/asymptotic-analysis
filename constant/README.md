@@ -36,4 +36,4 @@ T(n) = 7
 
 T(n) = O(1)
 
-number can be 1_000_000 but it will still take the same time to process it.
+> number can be 1_000_000 but it will still take the same time to process it.
