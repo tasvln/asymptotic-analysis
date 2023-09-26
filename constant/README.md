@@ -1,4 +1,4 @@
-# Constant
+# Constant Growth
 
 When the resource does not grow, it is constant.
 
