@@ -14,6 +14,7 @@ def constant(data):
 ```
 
 T(n) = 1
+
 T(n) = O(1)
 
 ```python
@@ -22,6 +23,7 @@ def constant(data):
 ```
 
 T(n) = 1
+
 T(n) = O(1)
 
 ```python
@@ -31,6 +33,7 @@ def constant(num):
 ```
 
 T(n) = 7
+
 T(n) = O(1)
 
 number can be 1_000_000 but it will still take the same time to process it.
