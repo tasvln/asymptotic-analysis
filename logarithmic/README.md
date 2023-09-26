@@ -29,8 +29,11 @@ def binary_search(data, target):
 ```
 
 T(n) = 5 * (1 + log n) + 5
+
 T(n) = 5 + 5log n + 5
+
 T(n) = 5log n + 10
+
 T(n) = O(log n)
 
 #### Worst Case
@@ -53,6 +56,9 @@ def binary_search(data, target):
 ```
 
 T(n) = 6 * (1 + log n) + 5
+
 T(n) = 6 + 6log n + 5
+
 T(n) = 6log n + 11
+
 T(n) = O(log n)
